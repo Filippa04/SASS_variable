@@ -1,0 +1,16 @@
+$backcolor: purple;
+$textcolor: white;
+
+body {
+    background-color: aquamarine;
+}
+
+div {
+    background-color: $backcolor;
+    color: $textcolor;
+}
+
+ul {
+    background-color: $backcolor;
+    color: $textcolor;
+}
